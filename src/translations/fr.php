@@ -1,10 +1,10 @@
 <?php
 $translations = array(
     'name' => 'Nom',
-    'email' => 'E-Mail',
+    'email' => 'e-mail',
     'comment' => 'Commentaire',
 
-    'emailHint' => 'L'E-Mail est optionneL S'il est fourni, il sera utilisé pour envoyer des notifications de réponse au commentaire. L'E-Mail n'est jamais publié. Vous pourrez dépublier votre commentaire ou effacer votre adresse E-Mail grâce aux notifications.',
+    'emailHint' => 'L\'e-mail est optionneL S\'il est fourni, il sera utilisé pour envoyer des notifications de réponse au commentaire. L\'e-mail n\'est jamais publié. Vous pourrez dépublier votre commentaire ou effacer votre adresse e-mail grâce aux notifications.',
 
     'submit' => 'Publier',
     'reply' => 'Répondre',
@@ -23,9 +23,9 @@ $translations = array(
     'seconds' => 'secondes',
 
     # reply notification e-mail
-    'subject' => 'Reply to your comment by {}',
+    'subject' => 'Une réponse à votre commentaire à été postée par {}',
     'introduction' => 'Il y a une réponse à votre commentaire.',
     'author' => 'Auteur',
     'message' => 'Message',
-    'unsubscribeDescription' => 'Pour se désabonner de ces notifications E-Mail, veuillez cliquer sur le lien suivant:',
+    'unsubscribeDescription' => 'Pour se désabonner de ces notifications e-mail, veuillez cliquer sur le lien suivant:',
 );
